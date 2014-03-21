@@ -1,21 +1,17 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>teamviewer-8</id>
-    <version>8.0.26039</version>
+    <id>teamviewer8</id>
+    <version>8.0.26038</version>
     <title>TeamViewer 8</title>
     <authors>TeamViewer Inc.</authors>
     <owners>Hannes Sachsenhofer</owners>
     <licenseUrl>http://www.teamviewer.com/</licenseUrl>
     <projectUrl>http://www.teamviewer.com/</projectUrl>
-    <iconUrl>https://raw.github.com/saxx/Chocolatey-Packages/master/teamviewer-8/icon.png</iconUrl>
+    <iconUrl>https://raw.github.com/saxx/Chocolatey-Packages/master/teamviewer8/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Legacy package - please see the "teamviewer8" package for an up-to-date version.</description>
+    <description>Remote control any computer or Mac over the internet within seconds or use TeamViewer for online meetings. Free for private use. Commercial users are welcome to use for trial purposes.</description>
     <summary>TeamViewer – the All-In-One Software for Remote Support and Online Meetings</summary>
     <tags>teamviewer team viewer remote control support online meeting</tags>
-	
-	<dependencies>
-	  <dependency id="teamviewer8" />
-	</dependencies>
   </metadata>
 </package>
